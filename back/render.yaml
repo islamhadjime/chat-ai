@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: back-api
+    env: node
+    plan: free            
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+    healthCheckPath: /  
+<<<<<<< HEAD
+
+    
+=======
+   
+    
+>>>>>>> 08a294793f0bd0fc1205dc7c5c4b7e7603b370bd
