@@ -1,6 +1,6 @@
 # Чат с искусственным интеллектом на React + TypeScript + Express
 
-
+![Главный интерфейс системы](https://github.com/islamhadjime/chat-ai/blob/main/frond/public/PG.png)
 
 ## Описание проекта
 
